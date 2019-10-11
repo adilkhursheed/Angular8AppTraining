@@ -1,5 +1,6 @@
 # MyFirstAngular8App
 
+This branch is created against the article https://www.c-sharpcorner.com/article/angular8-part2-application-structure-and-fundamentals/
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.5.
 
 ## Development server
